@@ -33,4 +33,4 @@ fi
 unset color_prompt force_color_prompt
 
 
-alias cws= echo 'Cameron W. Stewart'
+alias cws='echo Cameron W. Stewart'
